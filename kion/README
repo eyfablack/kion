@@ -1,0 +1,20 @@
+#Kion figma maket by WoxWeb 
+consisted
+└───kion
+    ├───aos-master
+    │   ├───demo
+    │   │   └───css
+    │   ├───dist
+    │   ├───src
+    │   │   ├───js
+    │   │   │   ├───helpers
+    │   │   │   └───libs
+    │   │   └───sass
+    │   └───test
+    │       └───fixtures
+    └───img
+Used HTML CSS JS AOS
+; ------------------------------------->
+orguments
+root
+FLEXBOX STYLING AND BEM SYSTEM CLASSING
